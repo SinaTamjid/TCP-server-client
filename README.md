@@ -1,0 +1,1 @@
+The "TCP layer" refers to the "Transport Layer" in the network communication model, where the Transmission Control Protocol (TCP) operates, responsible for ensuring reliable data delivery between two devices by establishing a connection and managing the flow of data segments, guaranteeing that all data is received in the correct order and without errors
